@@ -1,5 +1,8 @@
 ![Untitled](https://github.com/user-attachments/assets/e980e6af-0286-4a01-9243-a5ce20d0a163)
 
+### Video Demonstration
+[Watch on LinkedIn](https://www.linkedin.com/posts/kavindu-dissanayake-92a8791b4_ios-liveactivities-swift-activity-7306007865423446017-KwU-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADH2WPIBJyR5-LrZANtlCngFFzlyz-brAyE)
+
 
 # Live Activity Setup Guide
 
